@@ -1,0 +1,21 @@
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet packages directory
+packages/
+
+# Ignore project-specific settings
+.vscode/
+.idea/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
